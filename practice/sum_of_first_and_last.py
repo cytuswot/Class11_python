@@ -10,7 +10,6 @@ first_digit = int(number[0])
 last_digit = int(number[-1])
 
 # 3. add them
-
 sum = first_digit + last_digit
 print("sum =", sum)
 
